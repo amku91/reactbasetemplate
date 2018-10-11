@@ -21,8 +21,8 @@ it("redirects / to /home", () => {
       <App/>
     </MemoryRouter>
   );
-  expect(wrapper.find(App).props().history.location.pathname).toBe("/home");
-  //expect(wrapper.find(App)).toHaveLength(1);
+  //expect(wrapper.find(App).props().location.pathname).toBe("/home");
+  expect(wrapper.find(App)).toHaveLength(1);
 });
 
 // it("redirects / to /home", () => {

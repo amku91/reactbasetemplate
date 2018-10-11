@@ -24,3 +24,5 @@ npm install --save-dev babel-jest babel-polyfill babel-preset-es2015 babel-prese
 npm install --save-dev react-addons-test-utils enzyme
 
 npm install --save-dev enzyme react-test-renderer enzyme-adapter-react-16
+
+npm install --save chai
