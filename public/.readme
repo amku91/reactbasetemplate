@@ -16,3 +16,11 @@ npm install --save react react-dom $ npm install --save react-bootstrap
 Add route command
 
 npm i react-router-dom --save
+
+Jest command
+
+npm install --save-dev babel-jest babel-polyfill babel-preset-es2015 babel-preset-react jest
+
+npm install --save-dev react-addons-test-utils enzyme
+
+npm install --save-dev enzyme react-test-renderer enzyme-adapter-react-16
