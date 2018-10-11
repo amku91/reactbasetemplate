@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2475,4 +2474,3 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 # reactbasetemplate
 A Base template structure based on React, React Dom, React Dom Router v4.0 with Integrated Bootstrap 3, Common Component View, Separate and Common Header &amp; Footer
->>>>>>> cf71979c3e74cbe2dea2b8c6e2608d02725f18dc
